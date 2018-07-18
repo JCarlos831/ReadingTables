@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{D4863757-FD12-4023-9C35-1A37D37B9996}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadingTables/Program.cs">
+    <Files>
+      <File FileName="ReadingTables/Program.cs" Line="27" Column="1" />
+      <File FileName="ReadingTables/Base.cs" Line="8" Column="23" />
+      <File FileName="ReadingTables/TablePage.cs" Line="22" Column="1" />
+      <File FileName="ReadingTables/Utilities.cs" Line="48" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.ReadingTables PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

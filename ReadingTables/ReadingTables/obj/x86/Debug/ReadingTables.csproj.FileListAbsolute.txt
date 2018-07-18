@@ -1,0 +1,11 @@
+/Users/JuanCMontoya/Projects/vscode/csharp/ReadingTables/ReadingTables/ReadingTables/obj/x86/Debug/ReadingTables.csprojResolveAssemblyReference.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/ReadingTables/ReadingTables/ReadingTables/obj/x86/Debug/ReadingTables.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/vscode/csharp/ReadingTables/ReadingTables/ReadingTables/bin/Debug/ReadingTables.exe
+/Users/JuanCMontoya/Projects/vscode/csharp/ReadingTables/ReadingTables/ReadingTables/bin/Debug/ReadingTables.pdb
+/Users/JuanCMontoya/Projects/vscode/csharp/ReadingTables/ReadingTables/ReadingTables/bin/Debug/SeleniumExtras.PageObjects.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/ReadingTables/ReadingTables/ReadingTables/bin/Debug/WebDriver.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/ReadingTables/ReadingTables/ReadingTables/bin/Debug/WebDriver.Support.dll
+/Users/JuanCMontoya/Projects/vscode/csharp/ReadingTables/ReadingTables/ReadingTables/bin/Debug/WebDriver.xml
+/Users/JuanCMontoya/Projects/vscode/csharp/ReadingTables/ReadingTables/ReadingTables/bin/Debug/WebDriver.Support.xml
+/Users/JuanCMontoya/Projects/vscode/csharp/ReadingTables/ReadingTables/ReadingTables/obj/x86/Debug/ReadingTables.exe
+/Users/JuanCMontoya/Projects/vscode/csharp/ReadingTables/ReadingTables/ReadingTables/obj/x86/Debug/ReadingTables.pdb
