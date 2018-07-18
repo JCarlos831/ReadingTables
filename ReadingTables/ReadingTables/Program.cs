@@ -11,7 +11,7 @@ namespace ReadingTables
             Driver = new FirefoxDriver(@"/Users/JuanCMontoya/Projects/vscode/csharp/ReadingTables/ReadingTables/ReadingTables/bin/Debug");
 
             // Need to insert an actual html table
-            Driver.Navigate().GoToUrl("file:///C:/TablePages/SimpleTable.html");
+            Driver.Navigate().GoToUrl("file:///C:/TablePages/ComplexTable.html");
 
             TablePage page = new TablePage();
 
@@ -24,6 +24,9 @@ namespace ReadingTables
             Console.WriteLine("The name {0} with email {1} and phone {2}", Utilities.ReadCell("Name", 2), Utilities.ReadCell("Email", 2), Utilities.ReadCell("Phone", 2));
 
             Console.WriteLine("*****************************************************************");
+
+            // Delete Prashanth
+            Utilities.PerformActionOnCell("5", "Name", "Prashanth", "Delete");
 
             Console.Read();
         }
